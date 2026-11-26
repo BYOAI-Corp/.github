@@ -10,6 +10,11 @@ carries `MANIFEST.sha256` and a signed `RECEIPT.json`, and anyone can check it w
 | [dictionary](https://github.com/byoai-corp/dictionary) | The AI coding dictionary, in BYOAI's own words | CC BY 4.0 |
 | [verify](https://github.com/byoai-corp/verify) | The open checker for every BYOAI release | Apache-2.0 |
 
+**Check a receipt in your browser:** https://byoai-corp.github.io/verify/ (the web checker from the
+verify v0.2.1 release, for convenience). For evidence you rely on, download the checker from the
+[release](https://github.com/byoai-corp/verify/releases/latest) and check it as the
+[guide](https://github.com/byoai-corp/verify/blob/main/docs/CHECK_A_RECEIPT.md) describes.
+
 ## BYOAI release key
 
 ```
